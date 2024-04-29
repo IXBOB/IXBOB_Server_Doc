@@ -11,6 +11,7 @@ IXBOB Server
    :caption: Contents:
 
    about
+   payment_attention
 
 Indices and tables
 ==================
