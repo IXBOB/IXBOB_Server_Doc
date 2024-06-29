@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'IXBOB server'
+project = 'IXBOB服务器 文档'
 copyright = '2024, IXBOB'
 author = 'IXBOB'
-release = 'v20240429'
+release = 'v20240629'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
