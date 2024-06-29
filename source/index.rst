@@ -12,6 +12,7 @@ IXBOB Server
 
    about
    payment_attention
+   test/test
 
 Indices and tables
 ==================
