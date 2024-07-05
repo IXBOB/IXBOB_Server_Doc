@@ -10,4 +10,5 @@ IXBOB服务器 文档
    :maxdepth: 2
    :caption: 目录:
 
+   common_minecraft_installation_guide
    plugins_guide
