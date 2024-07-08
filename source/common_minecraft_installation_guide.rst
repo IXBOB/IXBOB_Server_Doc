@@ -35,7 +35,7 @@ MC国际版新手安装指南
 
 :red:`请在步骤1彻底完成后再进行该步骤！`
 
-→ `从HMCL Jenkins构建站下载 <https://ci.huangyuhui.net/job/HMCL/>`_
+→ `从HMCL构建站下载 <https://ci.huangyuhui.net/job/HMCL/lastSuccessfulBuild/artifact/HMCL/build/libs/HMCL-3.5.8.249.exe>`_
 
 或者→ `从Github下载 <https://github.com/HMCL-dev/HMCL/releases/download/v3.5.8.249/HMCL-3.5.8.249.exe>`_
 
