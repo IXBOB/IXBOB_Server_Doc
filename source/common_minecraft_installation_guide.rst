@@ -14,7 +14,9 @@ MC国际版新手安装指南
 本指南将使用HMCL启动器启动国际版，国际版客户端和HMCL均需安装JDK/JRE后才可运行。
 本指南提供adoptium OpenJDK 21下载，点击链接后按照页面提示下载。
 
-→ `从官网下载 <https://adoptium.net/temurin/releases/?os=windows&arch=any&package=jdk>`_
+→ `从Github下载 <https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jdk_x64_windows_hotspot_21.0.3_9.msi>`_
+
+或者→ `从Github镜像站下载 <https://kkgithub.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jdk_x64_windows_hotspot_21.0.3_9.msi>`_
 
 或者→ `前往服务器QQ群文件中下载 <https://qm.qq.com/q/A7Q9OSR310>`_
 
