@@ -11,4 +11,5 @@ IXBOB服务器 文档
    :caption: 目录:
 
    common_minecraft_installation_guide
+   hmcl_import_full_game_package_guide
    plugins_guide
